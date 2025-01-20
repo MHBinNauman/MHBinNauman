@@ -1,7 +1,7 @@
 Hi, I’m @MHBinNauman
 
 - 👀 I’m interested in Data Science, Software Dev and Web Dev
-- 🌱 I’m currently learning Computer Engineering from National University of Sciences and Technology
+- 🌱 I’m currently doing a Bachelor's in Computer Engineering from National University of Sciences and Technology
 
 <!---
 MHBinNauman/MHBinNauman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
