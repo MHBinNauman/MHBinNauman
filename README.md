@@ -13,12 +13,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"/>
-</div>
-
----
-
 ### About Me:
 
 - 👀 I’m interested in Data Science, Software Dev and Web Dev
