@@ -11,8 +11,15 @@
   <img src="https://komarev.com/ghpvc/?username=MHBinNauman&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### About Me:
+
 - 👀 I’m interested in Data Science, Software Dev and Web Dev
 - 🌱 I’m currently doing a Bachelor's in Computer Engineering from National University of Sciences and Technology
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/muhammad-hisham-bin-nauman)
 
 <!---
 MHBinNauman/MHBinNauman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
