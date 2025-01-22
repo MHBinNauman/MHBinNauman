@@ -4,7 +4,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZhc2J5NmduNzVkMXV5MHBneDJ0NDdsOWtjdjlrODdpeHl5ZTRhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=MHBinNauman&style=flat-square&color=blue" alt=""/>
 </div>
 
