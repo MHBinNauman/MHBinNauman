@@ -23,8 +23,9 @@
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MHBinNauman&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-brown-five.vercel.app?user=MHBinNauman&theme=highcontrast" alt="GitHub Streak" /></a>
+</div>
 <!---
 MHBinNauman/MHBinNauman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
