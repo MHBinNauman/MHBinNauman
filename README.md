@@ -17,7 +17,7 @@
 
 - 👀 I’m interested in Data Science, Software Dev and Web Dev
 - 🌱 I’m currently doing a Bachelor's in Computer Engineering from National University of Sciences and Technology
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-hisham-bin-nauman)
+- :mailbox: How to reach me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/muhammad-hisham-bin-nauman)
 
 <!---
 MHBinNauman/MHBinNauman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
