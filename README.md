@@ -19,6 +19,12 @@
 - 🌱 I’m currently doing a Bachelor's in Computer Engineering from National University of Sciences and Technology
 - :mailbox: How to reach me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/muhammad-hisham-bin-nauman)
 
+---
+
+### :fire: My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MHBinNauman&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <!---
 MHBinNauman/MHBinNauman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
